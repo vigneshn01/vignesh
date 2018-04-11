@@ -3,7 +3,4 @@ scm testing 2
 scm testing 3
 scm testing 4
 scm testing 5
-<<<<<<< HEAD
-=======
 scm testing 6
->>>>>>> e526daa85f85a345b8bbd1b1f0f1a937a736a651
